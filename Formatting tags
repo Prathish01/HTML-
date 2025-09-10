@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formating tags </title>
+</head>
+<body> <center>
+   <b> im a bold tag</b> <br>
+   <i> im a italic tag</i> <br>
+   <ins> Im a underline tag</ins> <br>
+   <strike>Im astrike tag </strike> <br>
+   <big> Im a big tag</big> <br>
+   <small> Im a small tag</small> <br>
+   <code> Im a code tag</code> <br> 
+   <pre> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Modi id dicta porro impedit, quo quos. Dicta provident temporibus ipsum ipsam culpa tempore,
+    quis accusamus dolorum, at deleniti, asperiores dignissimos dolore. </pre>
+   <h1> a <sup> 2</sup> b <sup> 2</sup> </h1> <br>
+   <h2> a <sub> 2 </sub> b <sub> 2</sub> </h2> <br>
+   <h3 title="World Health Organization " dir="ltr" contenteditable="" style="font-size: 32px;">WHO  </h3> <br>
+   <h4 tabindex="2"> THE GOAT </h4>
+   <h5 tabindex="3" style="color: blue;" title="THE GOAT" dir="ltr" contenteditable="" style="font-size: 60px;"> LIONEL MESSI </h5> <br>
+   </center>
+</body>
+</html>
