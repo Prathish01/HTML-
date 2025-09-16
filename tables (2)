@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="black">
+    <table border="5px" cellpadding="5px" cellspacing="5px" height="250px" width="250px">
+        <caption>TABLES TASK</caption>
+        <thead>
+            <tr>
+                <th bgcolor="orange">Sweets</th>
+                <th bgcolor="brown">chocolates</th>
+                <th bgcolor="green">fruits</th>
+            </tr>
+        </thead>
+        <tr height="50px" width="100px">
+            <td bgcolor="orange" colspan="2" align="center">Laddu</td>
+            <!-- <td bgcolor="brown">Dairy Milk</td> -->
+            <td bgcolor="green">Apple</td>
+        </tr>
+        <tr height="50px" width="100px">
+            <td bgcolor="orange">Jilebi</td>
+            <td bgcolor="brown">Kitkat</td>
+            <td bgcolor="green">Orange</td>
+        </tr>
+        <tr height="50px" width="100px">
+            <td bgcolor="orange">Gulab jamun</td>
+            <td bgcolor="brown">Snickers</td>
+            <td bgcolor="green">Grapes</td>
+        </tr>
+    </table>
+</body>
+</html>
