@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="./formnew.html"></form>
+    <fieldset>
+        <label for="">Date</label>
+        <input type="date"><br><br>
+        <label for="">Time </label>
+        <input type="Time"> <br><br>
+
+        <label for="">Week </label>
+        <input type="week"><br><br>
+
+        <label for="">Month</label>
+        <input type="month"><br><br>
+
+        <label for="">Local Date</label>
+        <input type="datatime-local"><br><br>
+
+        <label for="">Range</label>
+        <input type="range"> <br><br>
+
+        <label for="">Select country</label>
+        <select name="" id="">
+            <option value=""hidden>Enter country</option>
+            <option value="">India</option>
+            <option value="">Sri lanka</option>
+            <option value="">Nepal</option>
+            <option value="">Bangladesh</option>
+            <option value="">Oman</option>
+            <option value="">Pakistan</option>
+            <option value="">China</option>
+            <option value="">Singapore</option>
+            <option value="">Malaysia</option>
+            <option value="">Indonesia</option>
+            <option value="">Thailand</option>
+            <option value="">Honkkong</option>
+            <option value="">Taiwan</option>
+            <option value="">Japan</option>
+            <option value="">South korea</option>
+            <option value="">Saudi arabia</option>
+
+        </select>
+    
+
+
+    </fieldset>
+</body>
+</html>
