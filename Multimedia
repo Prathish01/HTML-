@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            color: beige;
+            background-color: black;
+            border: 2px solid yellow;
+        }
+    </style>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<!---INLINE CSS----->
+<h1 style="color: red; background-color: aqua;border:3px solid blue; text-align: center;"> HELLO WORLD </h1>
+<h2 style="color:blue ;background-color: white; border: 3px solid green; text-align: center;">PRATHISH</h2>
+<!--INLINE CSS-->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, cupiditate.</p>
+
+
+<h2>NITHISH ROY</h2>
+<h3>MURALI</h3>
+
+</body>
+</html>
