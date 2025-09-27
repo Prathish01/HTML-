@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <details>
+     <summary>
+        Mobiles
+    </summary>
+    <h1>Samsung</h1>
+    <img src="https://tse1.mm.bing.net/th/id/OIP.C0XIsxN_2mogedov1C_7ogHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" alt="">
+    <h1>Oppo</h1>
+    <h1>Apple</h1>
+    <h1>Vivo</h1>
+    <h1>Nothing</h1>
+    <h1>Micromax</h1>
+     <summary> THE GREATEST FOOTBALL MANAGERS
+    </summary>
+    <img src="https://tse4.mm.bing.net/th/id/OIP.iNmv55-J8b2I3LRwsOvJwAHaE7?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" alt="">
+    <h1>1. PEP GUARDIOLA</h1>
+    <img src="https://cdn.theathletic.com/app/uploads/2023/03/02181429/ancelotti-rm-scaled-e1677798898552.jpeg" alt="" style="height: 300px; width: 390px;">
+    <h2>2.CARLO ANCELOTTI</h2>
+    <img src="https://img2.thejournal.ie/article/4526585/river?version=4526586&width=1340" alt="" style="height: 300px; width: 390px;">
+    <h2>3.JOSE MOURINHO</h2>
+    <p>Portuguese: Born 26 January 1963 is a Portuguese professional football manager and former player, who was most recently the head coach of Süper Lig club Fenerbahçe. He is one of the most decorated managers and is widely considered to be among the greatest managers of all time.[3] Mourinho has won league championships in four countries, is one of only six managers to have won the European Cup with two clubs, and is the only manager to have won all three current UEFA club competitions.</p>
+    </details> 
+    <a href="https://www.uefa.com/uefachampionsleague/">UEFA CHAMPIONS LEAGUE</a>
+</body>
+</html>
