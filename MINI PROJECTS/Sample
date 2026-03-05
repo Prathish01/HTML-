@@ -1,0 +1,31 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task</title>
+</head>
+<body>
+    <ol>
+        <li><h1>background color</h1></li>
+        <ul type="circle">
+            <li style="color: red;">red</li>
+            <li style="color: green;">green</li>
+            <li style="color: blue;">blue</li>
+        <ol type="A">
+        <li>color</li>
+           <ul type="square">
+                   <fig><li style="color: orange;">orange</li>
+                   <li style="color: yellow;">yellow</li></fig></ul></ol>
+            <li type="circle" style="color: crimson;">crimson</li></ul>   
+         <li><h1>Other-Background</h1></li></ol>
+    <ol>
+        <li style="color: green;">green</li>
+        <ul type="square">
+            <li style="color: orange;">orange</li>
+            <li style="color: blue;">blue</li>
+        </ul>
+        <li style="color: purple;">purple</li>
+    </ol>
+</body>
+</html>
