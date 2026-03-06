@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="paleyellow">
+    <center>
+        
+      <h1>Student Registration Form</h1>
+    <form action="">
+        <table >
+            <tr><td>Student name </td> <td><input type="text"></td></tr> <br>
+            <tr><td>Age</td> <td><input type="number"></td></tr><br>
+            <tr><td>Number</td><td><input type="number"></td></tr><br>
+            <tr><td>Department</td>  <td>
+               <select name="" id=""> 
+
+                <option value="">Information Technology</option>
+                <option value="">Computer Science Engineering</option>
+                <option value="">Civil Engineering</option>
+                <option value="">Mechanical Engineering</option>
+                <option value="">Electronics and Communication Engineering</option>
+                <option value="">Electrical and Electronics Engineering</option>
+                <option value="">Bio Medical Engineering </option>
+                <option value=""></option></label>
+            </select></tr><br>
+            <tr><td></td> <td><input type="submit"></td></tr>
+        </table>
+        
+    </form>
+    </center>
+</body>
+</html>
