@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #parent{
+            height: 450px;
+            width: 600px;
+            border: 3px solid black;
+            display: grid;
+            grid-template-columns: 200px 200px 200px;
+            justify-content: start;
+            justify-content: center;
+            justify-content: end;
+        }
+        .child1{
+            background-color: black;
+        }
+
+        .child2{
+            background-color:yellow;
+        }
+        .child4{
+            background-color:red;
+        }
+        
+        #france{
+            height: 450px;
+            width: 600px;
+            border: 3px solid black;
+            display: grid;
+            grid-template-columns: 200px 200px 200px;
+            justify-content: start;
+            justify-content: center;
+            justify-content: end;
+        } 
+        .fr1{
+            background-color:blue;
+        }
+        .fr2{
+            background-color:white;
+        }
+        .fr3{
+            background-color:red;
+        }
+        #germany{
+            height: 450px;
+            width: 600px;
+            border: 3px solid black;
+            display: grid;
+            transition-duration: 6s;
+            transition-delay: 1s;
+            transition-timing-function: ease;
+            /*transition-timing-function: ease-in;
+            transition-timing-function: ease-out;
+            transition-timing-function: ease-in-out;*/
+        }
+        .gr1{
+            background-color:black;
+        }
+        .gr2{
+            background-color:red;
+        }
+        .gr3{
+            background-color:yellow;
+        }
+        #hungary{
+            height: 450px;
+            width: 600px;
+            border: 3px solid black;
+            display: grid; 
+            
+        }
+        .hr1{
+            background-color:red;
+        }
+        .hr2{
+            background-color:white;
+        }
+        .hr3{
+            background-color:green;
+        }
+        #england{
+            height: 450px;
+            width: 600px;
+            border: 3px solid black;
+            display: grid;
+            
+        }
+        #eg1{
+            width: 600px;
+            height: 100px;
+            position: absolute;
+            bottom: 47rem;
+            background-color: red;
+        }
+        #eg2{
+            height: 450px;
+            width: 100px;
+            position: absolute;
+            left: 16rem;
+            background-color:red;
+        }
+    </style>
+    
+</head>
+<body>
+    <div id="parent">
+        <div class="child1"></div>
+        <div class="child2"></div>
+        <div class="child4"></div>
+    </div><br>
+
+ <div id="france">
+        <div class="fr1"></div>
+        <div class="fr2"></div>
+        <div class="fr3"></div>
+    </div><br>
+ <div id="germany">
+        <div class="gr1"></div>
+        <div class="gr2"></div>
+        <div class="gr3"></div>
+    </div><br>
+    
+ <div id="hungary">
+        <div class="hr1"></div>
+        <div class="hr2"></div>
+        <div class="hr3"></div>
+    </div><br>
+    
+ <div id="england">
+        <span id="eg1"></span>
+        <span id="eg2"></span>
+
+    </div><br>
+
+</body>
+</html>
