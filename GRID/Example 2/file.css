@@ -1,0 +1,98 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#prathish{
+    height: 800px;
+    width: 800px;
+    border: 2px solid black;
+    justify-content: center;
+    display:grid ;
+    justify-content: center;
+
+}
+#child1{
+    margin: 0;
+    padding: 0;
+  height: 200px;
+  width: 200px;
+  color: red;
+  border: 2px solid red;
+  background-color: red;
+  margin-top: 50px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  transition: 3s;
+} 
+#child1:hover{
+    background-color: white;
+    color: red;
+    transform: rotate(30deg);
+    border-radius: 3 0px;
+    font-display: block;
+}
+#child2{
+    height: 200px;
+    width: 200px;
+    color: lightblue;
+    border: 2px solid lightblue;
+    background-color:lightblue;
+    margin-top: 40px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    transition: 3s;
+
+
+}
+#child2:hover{
+    background-color: white;
+    color: lightblue;
+    transform: rotate(30deg);
+    border-radius: 30px;
+    font-display: block;
+
+}
+#child3{
+    height: 200px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    border: 2px solid white;
+    background-color: white;
+    margin-top: 40px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    transition: 3s;
+  
+    
+}
+#child3:hover
+{
+    background-color: white;
+    color: darkblue;
+    transform:rotate(30deg);
+    border-radius: 30px;
+    font-display:block ;
+    
+}
+img
+{
+    height: 150px;
+    width: 150px;
+   
+    margin-bottom: 10px;
+}
+
