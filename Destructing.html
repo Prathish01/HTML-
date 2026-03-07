@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let arr =[23,34,45,"Murali","Nithish","Prathish"]     
+        console.log(arr)
+        //Single value
+        console.log(arr[3])
+        console.log(arr[1])
+        console.log(arr[5])
+        //array destructuring...
+        console.log(arr)
+        let[a,b,c,d,e,f,g]=arr
+        console.log(e)
+        console.log(c)
+        console.log(g)
+        console.log(f)
+        //object
+        let obj={
+            name:"Hari",
+            age:23,
+            city:"kochi",
+            country:"India"
+        }
+        //single value...dot notation...
+        console.log(obj)
+        console.log(obj.city)
+        console.log(obj.name)
+        console.log(obj.age)
+        
+        //object destrcturing.....
+        console.log(obj)
+        
+        let {name,age,city,country}=obj
+        console.log(city)
+        console.log(country)
+        console.log(name)
+
+    </script>
+</body>
+</html>
