@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ <style>
+    #ki{
+        height: 400px;
+        width: 400px;
+        background-color: red;
+        color: red;
+        animation-duration: 20s;
+        animation-delay: 2ms;
+        animation-name: giri;
+        animation-iteration-count: 500px;
+       }
+      
+    @keyframes giri {
+        0%
+        {height:1000px;
+         width: 1000px;
+         background-color: violet;
+         border-radius: 75%;
+         transform: translateY(1000px);
+        }
+        60%
+        {
+            height: 800px;
+            width: 800px;
+         background-color: purple;
+         border-radius: 55%;
+         transform: translateX(800px);
+
+        }
+    }
+
+ </style>
+</head>
+<body>
+
+<div id="ki"></div>
+
+</body>
+</html>
