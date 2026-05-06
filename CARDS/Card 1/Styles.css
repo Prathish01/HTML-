@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 :root{
     --yellow:hsl(47,88%,63%);
     --white: hsl(0, 0%, 100%);
